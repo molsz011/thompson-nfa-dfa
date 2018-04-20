@@ -6,7 +6,8 @@
 3. x^n (n = number) - string x repeated n times 
 4. x* - closure (any number of string x) 
 5. x+ - positive closure (any number of string x, excluding 0) 
-6. x|y - x or y 7. () - parentheses to group expressions 
+6. x|y - x or y
+7. () - parentheses to group expressions
  
 ##### Precedence rules: 
 1. () - expression within brackets 
